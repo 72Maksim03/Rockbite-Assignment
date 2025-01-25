@@ -14,8 +14,6 @@ Inventory Management: Drop items from the inventory.
 Save/Load Functionality: Save the inventory to a file and load it back.
 Sorting: Items are sorted by rarity and upgrade count for easy management.
 Error Handling: Invalid inputs are handled with clear error messages, prompting the user to try again.
-Requirements
-Java: Version 8 or higher is required for compilation and execution.
 Compilation and Running Instructions
 Compiling the Program:
 Open a terminal or command prompt.
